@@ -1,0 +1,14 @@
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\ConApp\ConApp\bin\Debug\net6.0\ConApp.exe
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\ConApp\ConApp\bin\Debug\net6.0\ConApp.deps.json
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\ConApp\ConApp\bin\Debug\net6.0\ConApp.runtimeconfig.json
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\ConApp\ConApp\bin\Debug\net6.0\ConApp.dll
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\ConApp\ConApp\bin\Debug\net6.0\ConApp.pdb
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\ConApp\ConApp\obj\Debug\net6.0\ConApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\ConApp\ConApp\obj\Debug\net6.0\ConApp.AssemblyInfoInputs.cache
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\ConApp\ConApp\obj\Debug\net6.0\ConApp.AssemblyInfo.cs
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\ConApp\ConApp\obj\Debug\net6.0\ConApp.csproj.CoreCompileInputs.cache
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\ConApp\ConApp\obj\Debug\net6.0\ConApp.dll
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\ConApp\ConApp\obj\Debug\net6.0\refint\ConApp.dll
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\ConApp\ConApp\obj\Debug\net6.0\ConApp.pdb
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\ConApp\ConApp\obj\Debug\net6.0\ConApp.genruntimeconfig.cache
+C:\Users\paulk\Documents\.NET simpilearn\Phase 4\15 02 2024\ConApp\ConApp\obj\Debug\net6.0\ref\ConApp.dll
